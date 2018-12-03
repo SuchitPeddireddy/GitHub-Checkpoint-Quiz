@@ -1,10 +1,9 @@
 public class GitTest{
-	public static void main(String[]args){
 
-		String a = "This is my GitHub test";
+	private String a = "";
 
-
-
-
+	public static void assignString(String a){
+		a = "This is my GitHub test";
+		return a;
 	}
 }
