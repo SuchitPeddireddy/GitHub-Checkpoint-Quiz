@@ -4,6 +4,9 @@ public class GitTest{
 
 	public static void assignString(String a){
 		a = "This is my GitHub test";
+	}
+
+	public String toString(String a){
 		return a;
 	}
 }
