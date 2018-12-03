@@ -1,12 +1,13 @@
+//Peddireddy
 public class GitTest{
 
 	private String a = "";
 
-	public static void assignString(String a){
+	public GitTest(String a){
 		a = "This is my GitHub test";
 	}
 
-	public String toString(String a){
+	public String toString(){
 		return a;
 	}
 }
